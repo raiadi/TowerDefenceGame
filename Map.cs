@@ -1,0 +1,7 @@
+namespace TowerDefence
+{
+  class Map
+  {
+
+  }
+}
